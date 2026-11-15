@@ -20,6 +20,12 @@ Free to reuse under **CC BY 4.0**. Please credit "SPLYT: POTS (splyt.fit/pots)".
 - Where the commonly quoted number is more flattering than the paper, we use the paper's version. The diagnostic delay is a **median of 2 years** with a long tail (a quarter wait 6+ years), not "an average of 6 years". The exercise-registry result is **71% of the people who finished**, out of 251 who started.
 - **This is not medical advice.** It cannot diagnose anything. Treatment rows report what a named guideline or trial says, never an instruction.
 
+## Also on
+
+- Kaggle: https://www.kaggle.com/datasets/abihussain00/pots-open-data-find-help-cited-evidence
+- Hugging Face: https://huggingface.co/datasets/sahussain887/pots-open-data
+- The splyt.fit data index: https://splyt.fit/data
+
 ## Read it on the web
 
 - Find help: https://splyt.fit/pots/help
