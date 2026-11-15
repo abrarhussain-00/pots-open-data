@@ -1,0 +1,575 @@
+{
+  "license": "CC BY 4.0",
+  "checkedOn": "2026-10-25",
+  "about": "Where to find a doctor who knows POTS, and people who get it — organisations run by patients or clinicians only. Splyt does not list or recommend individual doctors. Every link was opened and read by a person on the date shown. Free to reuse under CC BY 4.0; please credit splyt.fit/pots/help.",
+  "needs": [
+    {
+      "id": "diagnosis",
+      "label": "Getting diagnosed",
+      "line": "Where to start if you think it’s POTS — what it is, and how it’s tested."
+    },
+    {
+      "id": "doctor",
+      "label": "A doctor who knows POTS",
+      "line": "Lists kept by patient organisations. Read how each one is made — none of them can vouch for every name on it."
+    },
+    {
+      "id": "people",
+      "label": "People who get it",
+      "line": "Groups run by people who live with POTS too."
+    },
+    {
+      "id": "covid",
+      "label": "After COVID",
+      "line": "If this started after COVID, these are the services and charities for long COVID."
+    },
+    {
+      "id": "support",
+      "label": "Supporting someone",
+      "line": "For partners, parents and friends — what to read, and where to find others doing the same."
+    },
+    {
+      "id": "prep",
+      "label": "Getting ready for an appointment",
+      "line": "What to bring, so it isn’t your memory against the clock."
+    }
+  ],
+  "regions": [
+    {
+      "id": "us",
+      "name": "United States",
+      "countries": [
+        "US"
+      ]
+    },
+    {
+      "id": "uk",
+      "name": "United Kingdom",
+      "countries": [
+        "GB",
+        "UK",
+        "IM",
+        "JE",
+        "GG"
+      ]
+    },
+    {
+      "id": "ca",
+      "name": "Canada",
+      "countries": [
+        "CA"
+      ]
+    },
+    {
+      "id": "au",
+      "name": "Australia",
+      "countries": [
+        "AU"
+      ]
+    },
+    {
+      "id": "nz",
+      "name": "New Zealand",
+      "countries": [
+        "NZ"
+      ]
+    },
+    {
+      "id": "de",
+      "name": "Germany, Austria, Switzerland",
+      "countries": [
+        "DE",
+        "AT",
+        "CH"
+      ]
+    },
+    {
+      "id": "nl",
+      "name": "Netherlands, Belgium",
+      "countries": [
+        "NL",
+        "BE"
+      ]
+    },
+    {
+      "id": "se",
+      "name": "Sweden",
+      "countries": [
+        "SE"
+      ]
+    },
+    {
+      "id": "in",
+      "name": "India",
+      "countries": [
+        "IN"
+      ]
+    },
+    {
+      "id": "intl",
+      "name": "Anywhere"
+    }
+  ],
+  "entries": [
+    {
+      "id": "di-doctors",
+      "name": "Dysautonomia International — Find a Doctor",
+      "url": "https://www.dysautonomiainternational.org/page.php?ID=14",
+      "regions": [
+        "us"
+      ],
+      "needs": [
+        "doctor",
+        "diagnosis"
+      ],
+      "kind": "doctor-list",
+      "what": "Doctors who see POTS, kept by the largest patient organisation.",
+      "how": "Doctors ask to be listed and Dysautonomia International reviews them. It says plainly it isn’t a complete list — call before you book.",
+      "checkedOn": "2026-10-25"
+    },
+    {
+      "id": "dsn-map",
+      "name": "Dysautonomia Support Network — provider map",
+      "url": "https://www.dysautonomiasupport.org/healthcare-provider-map/",
+      "regions": [
+        "us"
+      ],
+      "needs": [
+        "doctor"
+      ],
+      "kind": "doctor-list",
+      "what": "A map of providers that people with dysautonomia have recommended.",
+      "how": "Built from patient recommendations, not checked or endorsed by the network, and it includes some integrative providers — ask what testing they do.",
+      "checkedOn": "2026-10-25"
+    },
+    {
+      "id": "sutp-autonomic",
+      "name": "Standing Up to POTS — finding an autonomic doctor",
+      "url": "https://www.standinguptopots.org/autonomicphysician",
+      "regions": [
+        "intl"
+      ],
+      "needs": [
+        "doctor",
+        "diagnosis"
+      ],
+      "kind": "guide",
+      "what": "What an autonomic specialist is, and the lists to look in for one.",
+      "how": "A patient-run charity. It points to other organisations’ lists rather than keeping its own.",
+      "checkedOn": "2026-10-25"
+    },
+    {
+      "id": "potsuk-clinics",
+      "name": "PoTS UK — NHS clinics",
+      "url": "https://www.potsuk.org/clinics/",
+      "regions": [
+        "uk"
+      ],
+      "needs": [
+        "doctor",
+        "diagnosis"
+      ],
+      "kind": "doctor-list",
+      "what": "The NHS clinics that see PoTS, gathered by the UK charity.",
+      "how": "NHS clinics only, and not an endorsement. You’ll usually need a referral from your GP.",
+      "checkedOn": "2026-10-25"
+    },
+    {
+      "id": "potsuk-gp",
+      "name": "PoTS UK — a guide for your GP",
+      "url": "https://www.potsuk.org/pots-for-medics/gp-guide/",
+      "regions": [
+        "uk"
+      ],
+      "needs": [
+        "prep",
+        "diagnosis"
+      ],
+      "kind": "guide",
+      "what": "Written for GPs. PoTS UK suggests taking it to your appointment and asking for a stand test.",
+      "checkedOn": "2026-10-25"
+    },
+    {
+      "id": "potsuk-groups",
+      "name": "PoTS UK — online peer support groups",
+      "url": "https://www.potsuk.org/pots-uk-online-peer-support-groups/",
+      "regions": [
+        "uk"
+      ],
+      "needs": [
+        "people",
+        "support"
+      ],
+      "kind": "support-group",
+      "what": "Online groups for adults, 13–17 year olds, parents, the newly diagnosed, men, and Northern Ireland, Scotland and Wales.",
+      "how": "Free; you book a place through Eventbrite.",
+      "checkedOn": "2026-10-25"
+    },
+    {
+      "id": "nhs-pots",
+      "name": "NHS — PoTS",
+      "url": "https://www.nhs.uk/conditions/postural-tachycardia-syndrome/",
+      "regions": [
+        "uk"
+      ],
+      "needs": [
+        "diagnosis"
+      ],
+      "kind": "guide",
+      "what": "The NHS page: symptoms, how it’s diagnosed, and what to ask your GP.",
+      "checkedOn": "2026-10-25"
+    },
+    {
+      "id": "nhs-longcovid",
+      "name": "NHS — long COVID",
+      "url": "https://www.nhs.uk/conditions/covid-19/long-term-effects-of-covid-19-long-covid/",
+      "regions": [
+        "uk"
+      ],
+      "needs": [
+        "covid"
+      ],
+      "kind": "guide",
+      "what": "Symptoms that last after COVID, and getting help through your GP.",
+      "checkedOn": "2026-10-25"
+    },
+    {
+      "id": "longcovid-support",
+      "name": "Long Covid Support",
+      "url": "https://www.longcovid.org/",
+      "regions": [
+        "uk",
+        "intl"
+      ],
+      "needs": [
+        "covid"
+      ],
+      "kind": "organisation",
+      "what": "A UK charity run by people with long COVID: peer support and advocacy.",
+      "checkedOn": "2026-10-25"
+    },
+    {
+      "id": "apf-directory",
+      "name": "Australian POTS Foundation — clinician directory",
+      "url": "https://potsfoundation.org.au/clinician-directory/",
+      "regions": [
+        "au"
+      ],
+      "needs": [
+        "doctor",
+        "diagnosis"
+      ],
+      "kind": "doctor-list",
+      "what": "Clinicians in Australia who see POTS.",
+      "how": "Clinicians list themselves as members of the Foundation, which says it does not screen or endorse them.",
+      "checkedOn": "2026-10-25"
+    },
+    {
+      "id": "apf",
+      "name": "Australian POTS Foundation",
+      "url": "https://potsfoundation.org.au/",
+      "regions": [
+        "au"
+      ],
+      "needs": [
+        "people",
+        "support",
+        "diagnosis"
+      ],
+      "kind": "organisation",
+      "what": "The Australian patient organisation: information, events and support.",
+      "checkedOn": "2026-10-25"
+    },
+    {
+      "id": "cci-nz",
+      "name": "Complex Chronic Illness Support",
+      "url": "https://ccisupport.org.nz/",
+      "regions": [
+        "nz"
+      ],
+      "needs": [
+        "people",
+        "support",
+        "covid"
+      ],
+      "kind": "organisation",
+      "what": "A New Zealand charity for people with complex chronic illness, including POTS and long COVID, and their families.",
+      "checkedOn": "2026-10-25"
+    },
+    {
+      "id": "healthify-pots",
+      "name": "Healthify — POTS",
+      "url": "https://healthify.nz/health-a-z/p/postural-orthostatic-tachycardia-syndrome-pots",
+      "regions": [
+        "nz"
+      ],
+      "needs": [
+        "diagnosis"
+      ],
+      "kind": "guide",
+      "what": "New Zealand’s health information page on POTS.",
+      "checkedOn": "2026-10-25"
+    },
+    {
+      "id": "healthify-support",
+      "name": "Healthify — POTS support",
+      "url": "https://healthify.nz/support/p/postural-orthostatic-tachycardia-syndrome-pots-support",
+      "regions": [
+        "nz"
+      ],
+      "needs": [
+        "people"
+      ],
+      "kind": "guide",
+      "what": "Where to find support in New Zealand.",
+      "checkedOn": "2026-10-25"
+    },
+    {
+      "id": "pots-ev",
+      "name": "PoTS und andere Dysautonomien e.V.",
+      "url": "https://www.pots-dysautonomia.net/",
+      "regions": [
+        "de"
+      ],
+      "needs": [
+        "diagnosis",
+        "people",
+        "support"
+      ],
+      "kind": "organisation",
+      "what": "The German-speaking patient organisation: information, a checklist for testing, and community.",
+      "how": "In German. It doesn’t keep a list of doctors.",
+      "checkedOn": "2026-10-25"
+    },
+    {
+      "id": "pots-ev-treffs",
+      "name": "PoTS e.V. — Online-Treffs",
+      "url": "https://www.pots-dysautonomia.net/onlinetreff",
+      "regions": [
+        "de"
+      ],
+      "needs": [
+        "people"
+      ],
+      "kind": "support-group",
+      "what": "Online meet-ups with other people who have POTS.",
+      "how": "In German.",
+      "checkedOn": "2026-10-25"
+    },
+    {
+      "id": "bmg-longcovid",
+      "name": "Long COVID — Bürgertelefon & regional clinic search",
+      "url": "https://www.bmg-longcovid.de/service/buergertelefon-und-regionale-kliniksuche",
+      "regions": [
+        "de"
+      ],
+      "needs": [
+        "covid",
+        "doctor"
+      ],
+      "kind": "helpline",
+      "what": "The German health ministry’s long COVID phone line and a search for clinics near you.",
+      "how": "In German. For Germany.",
+      "checkedOn": "2026-10-25"
+    },
+    {
+      "id": "ditispots-list",
+      "name": "DIT IS POTS — where to go for diagnosis or treatment",
+      "url": "https://ditispots.org/waar-kan-ik-terecht-voor-diagnose-en-of-behandeling/",
+      "regions": [
+        "nl"
+      ],
+      "needs": [
+        "doctor",
+        "diagnosis"
+      ],
+      "kind": "doctor-list",
+      "what": "Specialists in the Netherlands and Belgium that people with POTS have been seen by.",
+      "how": "In Dutch. Gathered from patients’ experiences, with no date on it — check a doctor still sees POTS before you’re referred.",
+      "checkedOn": "2026-10-25"
+    },
+    {
+      "id": "ditispots",
+      "name": "DIT IS POTS",
+      "url": "https://ditispots.org/over/",
+      "regions": [
+        "nl"
+      ],
+      "needs": [
+        "people",
+        "support"
+      ],
+      "kind": "organisation",
+      "what": "A patient-run platform for people with POTS in the Netherlands and Belgium.",
+      "how": "In Dutch.",
+      "checkedOn": "2026-10-25"
+    },
+    {
+      "id": "1177-pots",
+      "name": "1177 — POTS",
+      "url": "https://www.1177.se/sjukdomar--besvar/hjarta-och-blodkarl/blodtryck/pots/",
+      "regions": [
+        "se"
+      ],
+      "needs": [
+        "diagnosis"
+      ],
+      "kind": "guide",
+      "what": "Sweden’s public health guide on POTS: symptoms, tests, and where to get care.",
+      "how": "In Swedish.",
+      "checkedOn": "2026-10-25"
+    },
+    {
+      "id": "dysautonomi-sverige",
+      "name": "Dysautonomi Sverige",
+      "url": "https://dysautonomisverige.se/",
+      "regions": [
+        "se"
+      ],
+      "needs": [
+        "people"
+      ],
+      "kind": "organisation",
+      "what": "A Swedish site about dysautonomia, made by people who live with it.",
+      "how": "In Swedish. Information only.",
+      "checkedOn": "2026-10-25"
+    },
+    {
+      "id": "di-groups",
+      "name": "Dysautonomia International — support groups",
+      "url": "https://www.dysautonomiainternational.org/page.php?ID=24",
+      "regions": [
+        "us",
+        "ca",
+        "au",
+        "in",
+        "intl"
+      ],
+      "needs": [
+        "people",
+        "support"
+      ],
+      "kind": "support-group",
+      "what": "Volunteer-run groups by US state and by country, including Canadian provinces, India and Australia.",
+      "how": "Mostly Facebook groups, run by people who have POTS.",
+      "checkedOn": "2026-10-25"
+    },
+    {
+      "id": "dsn-communities",
+      "name": "Dysautonomia Support Network — regional communities",
+      "url": "https://www.dysautonomiasupport.org/us-regional-communities/",
+      "regions": [
+        "us"
+      ],
+      "needs": [
+        "people",
+        "support"
+      ],
+      "kind": "support-group",
+      "what": "Peer communities by US region.",
+      "checkedOn": "2026-10-25"
+    },
+    {
+      "id": "di",
+      "name": "Dysautonomia International",
+      "url": "https://www.dysautonomiainternational.org/",
+      "regions": [
+        "intl"
+      ],
+      "needs": [
+        "diagnosis",
+        "people"
+      ],
+      "kind": "organisation",
+      "what": "The largest patient organisation for POTS and other forms of dysautonomia: information, research and awareness.",
+      "checkedOn": "2026-10-25"
+    },
+    {
+      "id": "sutp",
+      "name": "Standing Up to POTS",
+      "url": "https://www.standinguptopots.org/",
+      "regions": [
+        "intl"
+      ],
+      "needs": [
+        "people",
+        "support"
+      ],
+      "kind": "organisation",
+      "what": "A patient-run charity: explainers made with clinicians, a podcast, and community.",
+      "checkedOn": "2026-10-25"
+    },
+    {
+      "id": "cleveland-pots",
+      "name": "Cleveland Clinic — POTS",
+      "url": "https://my.clevelandclinic.org/health/diseases/16560-postural-orthostatic-tachycardia-syndrome-pots",
+      "regions": [
+        "intl"
+      ],
+      "needs": [
+        "diagnosis"
+      ],
+      "kind": "guide",
+      "what": "A clear clinical overview: what POTS is, how it’s diagnosed and treated.",
+      "checkedOn": "2026-10-25"
+    },
+    {
+      "id": "sutp-doctors",
+      "name": "Standing Up to POTS — preparing for the doctor",
+      "url": "https://www.standinguptopots.org/livingwithpots/doctors",
+      "regions": [
+        "intl"
+      ],
+      "needs": [
+        "prep"
+      ],
+      "kind": "guide",
+      "what": "The best preparation guide we found: what to track, what to bring, and how to make the time count.",
+      "checkedOn": "2026-10-25"
+    },
+    {
+      "id": "di-advocacy",
+      "name": "Dysautonomia International — patient advocacy tips",
+      "url": "https://www.dysautonomiainternational.org/page.php?ID=108",
+      "regions": [
+        "intl"
+      ],
+      "needs": [
+        "prep"
+      ],
+      "kind": "guide",
+      "what": "How to speak up for yourself in appointments — and what to do when you’re not being heard.",
+      "checkedOn": "2026-10-25"
+    },
+    {
+      "id": "di-cards",
+      "name": "Dysautonomia International — wallet cards",
+      "url": "https://www.dysautonomiainternational.org/page.php?ID=164",
+      "regions": [
+        "intl"
+      ],
+      "needs": [
+        "prep",
+        "support"
+      ],
+      "kind": "guide",
+      "what": "Printable cards that explain POTS and the accommodations you need — for school, work or the emergency room.",
+      "checkedOn": "2026-10-25"
+    },
+    {
+      "id": "dsn-handbooks",
+      "name": "Dysautonomia Support Network — handbooks and handouts",
+      "url": "https://www.dysautonomiasupport.org/handbooks/",
+      "regions": [
+        "intl"
+      ],
+      "needs": [
+        "prep",
+        "support"
+      ],
+      "kind": "guide",
+      "what": "Free handouts to give to family, teachers and doctors.",
+      "checkedOn": "2026-10-25"
+    }
+  ]
+}

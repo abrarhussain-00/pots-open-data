@@ -1,0 +1,12 @@
+{
+  "title": "POTS open data: where to find help, and what the evidence says",
+  "upload_type": "dataset",
+  "description": "Two hand-checked datasets about POTS (postural orthostatic tachycardia syndrome): a directory of 30 patient- and clinician-run organisations across 10 regions that help people find a POTS-literate doctor, get diagnosed, find community or long-COVID care; and cited headline figures and treatment evidence grades, each traced to a study or guideline with its sample size. Published by SPLYT: POTS (https://splyt.fit/pots). Not medical advice.",
+  "creators": [{"name": "Hussain, Abrar"}, {"name": "Zaidi, Asim"}],
+  "license": "cc-by-4.0",
+  "keywords": ["POTS", "postural orthostatic tachycardia syndrome", "dysautonomia", "long COVID", "patient resources", "evidence"],
+  "related_identifiers": [
+    {"identifier": "https://splyt.fit/pots/data", "relation": "isSupplementTo", "scheme": "url"},
+    {"identifier": "https://splyt.fit/pots/help", "relation": "isSupplementTo", "scheme": "url"}
+  ]
+}

@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "POTS open data: where to find help, and what the evidence says"
+type: dataset
+authors:
+  - family-names: Hussain
+    given-names: Abrar
+  - family-names: Zaidi
+    given-names: Asim
+license: CC-BY-4.0
+url: "https://splyt.fit/pots/data"
+repository-code: "https://github.com/abrarhussain-00/pots-open-data"
+date-released: 2026-11-15
+keywords:
+  - POTS
+  - postural orthostatic tachycardia syndrome
+  - dysautonomia
+  - long COVID
+  - patient resources
+  - evidence

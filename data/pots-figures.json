@@ -1,0 +1,351 @@
+{
+  "sources": {
+    "rise": {
+      "cite": "Dulal et al., 2025",
+      "where": "European Heart Journal — Quality of Care & Clinical Outcomes",
+      "year": 2025,
+      "n": "65,141,065 adults across 64 US health systems, Jan 2018 – Jun 2024",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/39775762/"
+    },
+    "shaw": {
+      "cite": "Shaw et al., 2019",
+      "where": "Journal of Internal Medicine",
+      "year": 2019,
+      "n": "4,835 people with a physician diagnosis of POTS — the largest patient survey to date",
+      "href": "https://doi.org/10.1111/joim.12895"
+    },
+    "di-delay": {
+      "cite": "Dysautonomia International, 2013 patient survey",
+      "where": "Dysautonomia International",
+      "year": 2013,
+      "n": "700+ people with POTS",
+      "href": "https://www.dysautonomiainternational.org/page.php?ID=184"
+    },
+    "di-pots": {
+      "cite": "Dysautonomia International",
+      "where": "Dysautonomia International",
+      "year": 2024,
+      "n": "Patient-advocacy organisation, medical advisory board",
+      "href": "https://www.dysautonomiainternational.org/page.php?ID=30"
+    },
+    "longcovid": {
+      "cite": "Björnson et al., 2025",
+      "where": "Circulation: Arrhythmia and Electrophysiology",
+      "year": 2025,
+      "n": "467 non-hospitalised long COVID patients on ≥50% sick leave, assessed a median of 12 months after infection",
+      "href": "https://doi.org/10.1161/CIRCEP.124.013629"
+    },
+    "hrs": {
+      "cite": "2015 Heart Rhythm Society expert consensus statement",
+      "where": "Heart Rhythm Society",
+      "year": 2015,
+      "n": "Expert consensus, with a class and level of evidence on every recommendation",
+      "href": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5267948/"
+    },
+    "compression": {
+      "cite": "Bourne et al., 2021",
+      "where": "Journal of the American College of Cardiology",
+      "year": 2021,
+      "n": "30 people with POTS, randomised crossover, four compression conditions on a tilt table",
+      "href": "https://pubmed.ncbi.nlm.nih.gov/33478652/"
+    },
+    "registry": {
+      "cite": "George et al., 2016 — the international POTS registry",
+      "where": "Heart Rhythm",
+      "year": 2016,
+      "n": "251 enrolled, 103 completed the 3-month programme",
+      "href": "https://doi.org/10.1016/j.hrthm.2015.12.012"
+    },
+    "ivabradine": {
+      "cite": "Taub et al., 2021",
+      "where": "Journal of the American College of Cardiology",
+      "year": 2021,
+      "n": "22 people with hyperadrenergic POTS, randomised, double-blind, placebo-controlled crossover",
+      "href": "https://doi.org/10.1016/j.jacc.2020.12.029"
+    },
+    "psych": {
+      "cite": "Raj V et al., 2009",
+      "where": "Journal of Neurology, Neurosurgery & Psychiatry",
+      "year": 2009,
+      "n": "21 people with POTS, 18 with ADHD, 20 controls, formally assessed for DSM-IV disorders",
+      "href": "https://doi.org/10.1136/jnnp.2008.144360"
+    },
+    "nice": {
+      "cite": "NICE guideline NG206",
+      "where": "UK National Institute for Health and Care Excellence",
+      "year": 2021,
+      "n": "National clinical guideline for ME/CFS",
+      "href": "https://www.nice.org.uk/guidance/ng206"
+    }
+  },
+  "figures": [
+    {
+      "group": "rise",
+      "figure": "1.42 → 20.3",
+      "label": "new cases per million person-years, before and after March 2020",
+      "note": "An interrupted time series across 65 million patient records. The cut-off is the start of the pandemic, not a COVID diagnosis.",
+      "source_id": "rise",
+      "source": "Dulal et al., 2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39775762/"
+    },
+    {
+      "group": "rise",
+      "figure": "4.21 → 22.66",
+      "label": "new POTS cases per month in the same records",
+      "note": "Roughly five times as many people receiving the diagnosis each month.",
+      "source_id": "rise",
+      "source": "Dulal et al., 2025",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/39775762/"
+    },
+    {
+      "group": "rise",
+      "figure": "31%",
+      "label": "of severely affected long COVID patients were diagnosed with POTS",
+      "note": "Of 467 people still on at least half-time sick leave a year after infection. Another 27% had orthostatic symptoms without meeting the criteria.",
+      "source_id": "longcovid",
+      "source": "Björnson et al., 2025",
+      "source_url": "https://doi.org/10.1161/CIRCEP.124.013629"
+    },
+    {
+      "group": "scale",
+      "figure": "1–3 million",
+      "label": "Americans estimated to have POTS before the pandemic",
+      "source_id": "di-pots",
+      "source": "Dysautonomia International",
+      "source_url": "https://www.dysautonomiainternational.org/page.php?ID=30"
+    },
+    {
+      "group": "scale",
+      "figure": "~80%",
+      "label": "are women, most commonly between 15 and 50",
+      "source_id": "di-pots",
+      "source": "Dysautonomia International",
+      "source_url": "https://www.dysautonomiainternational.org/page.php?ID=30"
+    },
+    {
+      "group": "scale",
+      "figure": "94%",
+      "label": "female in the largest patient survey, with a most-common onset age of 14",
+      "source_id": "shaw",
+      "source": "Shaw et al., 2019",
+      "source_url": "https://doi.org/10.1111/joim.12895"
+    },
+    {
+      "group": "diagnostic_delay",
+      "figure": "2 years",
+      "label": "median wait from first symptoms to diagnosis",
+      "note": "Half wait longer. A quarter wait more than six years — the distribution has a long tail, which is why the \"average\" quoted elsewhere is so much higher.",
+      "source_id": "shaw",
+      "source": "Shaw et al., 2019",
+      "source_url": "https://doi.org/10.1111/joim.12895"
+    },
+    {
+      "group": "diagnostic_delay",
+      "figure": "25%",
+      "label": "are diagnosed in the first year",
+      "note": "In the same survey the average wait was 5 years and 11 months.",
+      "source_id": "di-delay",
+      "source": "Dysautonomia International, 2013 patient survey",
+      "source_url": "https://www.dysautonomiainternational.org/page.php?ID=184"
+    },
+    {
+      "group": "diagnostic_delay",
+      "figure": "27%",
+      "label": "saw more than ten doctors before someone named it",
+      "source_id": "di-delay",
+      "source": "Dysautonomia International, 2013 patient survey",
+      "source_url": "https://www.dysautonomiainternational.org/page.php?ID=184"
+    },
+    {
+      "group": "diagnostic_delay",
+      "figure": "50%",
+      "label": "travelled more than 100 miles to get POTS care",
+      "source_id": "di-delay",
+      "source": "Dysautonomia International, 2013 patient survey",
+      "source_url": "https://www.dysautonomiainternational.org/page.php?ID=184"
+    },
+    {
+      "group": "told_instead",
+      "figure": "69%",
+      "label": "were given an anxiety diagnosis before POTS",
+      "source_id": "di-delay",
+      "source": "Dysautonomia International, 2013 patient survey",
+      "source_url": "https://www.dysautonomiainternational.org/page.php?ID=184"
+    },
+    {
+      "group": "told_instead",
+      "figure": "59%",
+      "label": "were told their symptoms were \"all in your head\"",
+      "source_id": "di-delay",
+      "source": "Dysautonomia International, 2013 patient survey",
+      "source_url": "https://www.dysautonomiainternational.org/page.php?ID=184"
+    },
+    {
+      "group": "top_symptoms",
+      "figure": "99%",
+      "label": "report lightheadedness",
+      "note": "",
+      "source_id": "shaw",
+      "source": "Shaw et al., 2019",
+      "source_url": "https://doi.org/10.1111/joim.12895"
+    },
+    {
+      "group": "top_symptoms",
+      "figure": "97%",
+      "label": "report racing heart",
+      "note": "",
+      "source_id": "shaw",
+      "source": "Shaw et al., 2019",
+      "source_url": "https://doi.org/10.1111/joim.12895"
+    },
+    {
+      "group": "top_symptoms",
+      "figure": "94%",
+      "label": "report nearly fainting",
+      "note": "",
+      "source_id": "shaw",
+      "source": "Shaw et al., 2019",
+      "source_url": "https://doi.org/10.1111/joim.12895"
+    },
+    {
+      "group": "top_symptoms",
+      "figure": "94%",
+      "label": "report headache",
+      "note": "",
+      "source_id": "shaw",
+      "source": "Shaw et al., 2019",
+      "source_url": "https://doi.org/10.1111/joim.12895"
+    },
+    {
+      "group": "top_symptoms",
+      "figure": "94%",
+      "label": "report trouble concentrating",
+      "note": "",
+      "source_id": "shaw",
+      "source": "Shaw et al., 2019",
+      "source_url": "https://doi.org/10.1111/joim.12895"
+    }
+  ],
+  "treatments": [
+    {
+      "name": "Fluid and salt",
+      "does": "Raises blood volume, so less of it pools in your legs when you stand.",
+      "detail": "Up to 2–3 litres of water and 10–12 g of salt a day \"may be considered\".",
+      "evidence": "Class IIb, Level E — the consensus panel’s weakest grade: expert opinion, not trial evidence.",
+      "strength": "weak",
+      "src": "hrs",
+      "category": "non-drug",
+      "source": "2015 Heart Rhythm Society expert consensus statement",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5267948/"
+    },
+    {
+      "name": "Compression — above the waist of your socks",
+      "does": "Stops blood pooling in the abdomen, which is where most of it goes.",
+      "detail": "On a tilt table, heart rate fell step by step with how much of the body was compressed: 109 bpm with none, 103 with the lower legs, 97 with the abdomen and thighs, 92 with both.",
+      "evidence": "Randomised crossover trial, 30 patients. Small, but it is a real trial with a dose-response.",
+      "strength": "tested",
+      "src": "compression",
+      "category": "non-drug",
+      "source": "Bourne et al., 2021",
+      "source_url": "https://pubmed.ncbi.nlm.nih.gov/33478652/"
+    },
+    {
+      "name": "Exercise, starting lying down",
+      "does": "Rebuilds blood volume and heart size, which standing all day does not.",
+      "detail": "A structured, graduated programme beginning with non-upright exercise — rowing machines, recumbent bikes, swimming — before anything upright.",
+      "evidence": "Class IIa, Level B-R — \"can be effective\", supported by randomised data.",
+      "strength": "recommended",
+      "src": "hrs",
+      "category": "non-drug",
+      "source": "2015 Heart Rhythm Society expert consensus statement",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5267948/"
+    },
+    {
+      "name": "Reviewing the drugs you already take",
+      "does": "Several common medications make orthostatic symptoms worse.",
+      "detail": "Withdrawing medications that aggravate POTS is listed first among the non-drug measures.",
+      "evidence": "Expert consensus.",
+      "strength": "recommended",
+      "src": "hrs",
+      "category": "non-drug",
+      "source": "2015 Heart Rhythm Society expert consensus statement",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5267948/"
+    },
+    {
+      "name": "Ivabradine",
+      "does": "Slows the heart without lowering blood pressure.",
+      "detail": "Standing heart rate fell from 94.2 to 77.9 bpm against placebo, with improved physical and social functioning.",
+      "evidence": "The one randomised, double-blind, placebo-controlled trial of a drug in POTS. 22 patients, hyperadrenergic subtype.",
+      "strength": "tested",
+      "src": "ivabradine",
+      "category": "drug (off-label)",
+      "source": "Taub et al., 2021",
+      "source_url": "https://doi.org/10.1016/j.jacc.2020.12.029"
+    },
+    {
+      "name": "Beta-blockers (low-dose propranolol)",
+      "does": "Blunts the heart-rate rise.",
+      "detail": "Covered by the consensus statement as an option; doses are low, and higher doses can make fatigue worse.",
+      "evidence": "Expert consensus, limited trial data.",
+      "strength": "recommended",
+      "src": "hrs",
+      "category": "drug (off-label)",
+      "source": "2015 Heart Rhythm Society expert consensus statement",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5267948/"
+    },
+    {
+      "name": "Midodrine",
+      "does": "Tightens blood vessels so less blood pools.",
+      "detail": "Short-acting, taken before being upright; not at bedtime.",
+      "evidence": "Expert consensus, limited trial data.",
+      "strength": "recommended",
+      "src": "hrs",
+      "category": "drug (off-label)",
+      "source": "2015 Heart Rhythm Society expert consensus statement",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5267948/"
+    },
+    {
+      "name": "Fludrocortisone",
+      "does": "Helps the body hold on to salt and water.",
+      "detail": "Used alongside the salt and fluid measures rather than instead of them.",
+      "evidence": "Expert consensus, limited trial data.",
+      "strength": "recommended",
+      "src": "hrs",
+      "category": "drug (off-label)",
+      "source": "2015 Heart Rhythm Society expert consensus statement",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5267948/"
+    },
+    {
+      "name": "Pyridostigmine",
+      "does": "Acts on the autonomic signalling itself.",
+      "detail": "Sometimes chosen when the gut symptoms are prominent.",
+      "evidence": "Expert consensus, limited trial data.",
+      "strength": "recommended",
+      "src": "hrs",
+      "category": "drug (off-label)",
+      "source": "2015 Heart Rhythm Society expert consensus statement",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5267948/"
+    }
+  ],
+  "exercise_registry": {
+    "headline": "71% of the people who finished no longer met the criteria for POTS.",
+    "caveat": "103 of the 251 who enrolled finished. Counted against everyone who started, it is 29%.",
+    "detail": "Three months, 3–5 sessions a week, progressing from semi-recumbent to upright, with strength work and extra salt and fluid.",
+    "src": "registry"
+  },
+  "criteria": {
+    "adult": 30,
+    "teen": 40,
+    "ceiling": 120,
+    "window": 10,
+    "months": 3,
+    "line": "A sustained heart-rate rise of 30 bpm or more within 10 minutes of standing — 40 bpm if you are 12 to 19 — without a drop in blood pressure, with symptoms lasting at least three months.",
+    "src": "di-pots"
+  },
+  "no_approved_drug": "No medication is approved by the FDA for POTS. Everything prescribed for it is prescribed off-label — which is legal, ordinary, and worth knowing before a pharmacist mentions it first.",
+  "not_anxiety": {
+    "claim": "People with POTS do not have more anxiety disorders than anyone else.",
+    "body": "Assessed formally against DSM-IV criteria, people with POTS showed no increased lifetime prevalence of anxiety disorders, panic disorder or major depression. They may look anxious — a racing heart on standing looks exactly like fear — but the survey-measured cognitive anxiety is not there. The study was small, and it is the one that put a number on it.",
+    "src": "psych"
+  }
+}

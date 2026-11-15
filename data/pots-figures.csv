@@ -1,0 +1,18 @@
+group,figure,label,note,source_id,source,source_url
+rise,1.42 → 20.3,"new cases per million person-years, before and after March 2020","An interrupted time series across 65 million patient records. The cut-off is the start of the pandemic, not a COVID diagnosis.",rise,"Dulal et al., 2025",https://pubmed.ncbi.nlm.nih.gov/39775762/
+rise,4.21 → 22.66,new POTS cases per month in the same records,Roughly five times as many people receiving the diagnosis each month.,rise,"Dulal et al., 2025",https://pubmed.ncbi.nlm.nih.gov/39775762/
+rise,31%,of severely affected long COVID patients were diagnosed with POTS,Of 467 people still on at least half-time sick leave a year after infection. Another 27% had orthostatic symptoms without meeting the criteria.,longcovid,"Björnson et al., 2025",https://doi.org/10.1161/CIRCEP.124.013629
+scale,1–3 million,Americans estimated to have POTS before the pandemic,,di-pots,Dysautonomia International,https://www.dysautonomiainternational.org/page.php?ID=30
+scale,~80%,"are women, most commonly between 15 and 50",,di-pots,Dysautonomia International,https://www.dysautonomiainternational.org/page.php?ID=30
+scale,94%,"female in the largest patient survey, with a most-common onset age of 14",,shaw,"Shaw et al., 2019",https://doi.org/10.1111/joim.12895
+diagnostic_delay,2 years,median wait from first symptoms to diagnosis,"Half wait longer. A quarter wait more than six years — the distribution has a long tail, which is why the ""average"" quoted elsewhere is so much higher.",shaw,"Shaw et al., 2019",https://doi.org/10.1111/joim.12895
+diagnostic_delay,25%,are diagnosed in the first year,In the same survey the average wait was 5 years and 11 months.,di-delay,"Dysautonomia International, 2013 patient survey",https://www.dysautonomiainternational.org/page.php?ID=184
+diagnostic_delay,27%,saw more than ten doctors before someone named it,,di-delay,"Dysautonomia International, 2013 patient survey",https://www.dysautonomiainternational.org/page.php?ID=184
+diagnostic_delay,50%,travelled more than 100 miles to get POTS care,,di-delay,"Dysautonomia International, 2013 patient survey",https://www.dysautonomiainternational.org/page.php?ID=184
+told_instead,69%,were given an anxiety diagnosis before POTS,,di-delay,"Dysautonomia International, 2013 patient survey",https://www.dysautonomiainternational.org/page.php?ID=184
+told_instead,59%,"were told their symptoms were ""all in your head""",,di-delay,"Dysautonomia International, 2013 patient survey",https://www.dysautonomiainternational.org/page.php?ID=184
+top_symptoms,99%,report lightheadedness,,shaw,"Shaw et al., 2019",https://doi.org/10.1111/joim.12895
+top_symptoms,97%,report racing heart,,shaw,"Shaw et al., 2019",https://doi.org/10.1111/joim.12895
+top_symptoms,94%,report nearly fainting,,shaw,"Shaw et al., 2019",https://doi.org/10.1111/joim.12895
+top_symptoms,94%,report headache,,shaw,"Shaw et al., 2019",https://doi.org/10.1111/joim.12895
+top_symptoms,94%,report trouble concentrating,,shaw,"Shaw et al., 2019",https://doi.org/10.1111/joim.12895
