@@ -1,5 +1,7 @@
 # POTS open data: where to find help, and what the evidence says
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24267191.svg)](https://doi.org/10.5281/zenodo.24267191)
+
 Two small, hand-checked datasets about **POTS (postural orthostatic tachycardia syndrome)**, published by the team behind [SPLYT: POTS](https://splyt.fit/pots), a free iPhone and Apple Watch app for people living with POTS.
 
 Free to reuse under **CC BY 4.0**. Please credit "SPLYT: POTS (splyt.fit/pots)".
@@ -46,4 +48,6 @@ node --experimental-strip-types scripts/build.mjs <path-to-splyt-web>
 
 ## Citation
 
-See `CITATION.cff`. Corrections are welcome: open an issue.
+Hussain, A. and Zaidi, A. (2026). POTS open data: where to find help, and what the evidence says (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.24267191
+
+See also `CITATION.cff`. Corrections are welcome: open an issue.
